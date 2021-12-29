@@ -1,0 +1,20 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f2ccd1;
+}
+
+.page-logo {
+  position: absolute;
+  width: 175px;
+  height: 44px;
+  left: 595px;
+  top: 100px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #cf412a;
+}
